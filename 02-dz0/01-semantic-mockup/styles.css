@@ -1,0 +1,42 @@
+body {
+    color: white;
+    margin: 0;
+}
+
+header {
+    text-align: center;
+    background-color: red;
+    display: grid;
+}
+
+nav {
+    background-color: orange;
+}
+
+nav li {
+    list-style-type: none;
+    display: inline;
+}
+
+nav li a {
+    color: white;
+}
+
+main {
+    background-color: green;
+    display: grid;
+    padding: 15px;
+    gap: 10px;
+}
+
+article {
+    background-color: blue;
+    padding: 10px;
+}
+
+footer {
+    background-color: blueviolet;
+    text-align: center;
+    font-size: 32px;
+    padding: 20px 0;
+}
